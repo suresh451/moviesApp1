@@ -1,0 +1,12 @@
+.failure-img {
+  height: 60px;
+  width: 60px;
+}
+
+.failure-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}

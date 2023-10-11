@@ -1,0 +1,11 @@
+.membership {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  color: white;
+  background-color: red;
+}

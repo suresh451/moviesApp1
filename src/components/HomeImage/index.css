@@ -1,0 +1,12 @@
+.home-image {
+  height: 100%;
+}
+
+.home-image-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 20px;
+  color: white;
+}

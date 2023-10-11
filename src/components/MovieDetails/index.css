@@ -1,0 +1,14 @@
+.movie-details {
+  color: white;
+}
+
+.details-div {
+  background-color: black;
+  color: white;
+}
+.similar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+}

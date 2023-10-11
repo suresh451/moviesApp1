@@ -1,0 +1,11 @@
+.list-item {
+  list-style-type: none;
+}
+.list-item-img {
+  width: 255px;
+  height: 170px;
+  top: 329px;
+  left: 166px;
+  border-radius: 8px;
+  margin: 5px;
+}
